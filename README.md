@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zznagi
+- 👋 Hi, I’m @richardy
 - 👀 I'm interested in make a python website (maybe work at riot games)
 - 🌱 I’m currently learning basic of portugol and python
 - 📫 How to reach me richardy1000@gmail.com
