@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @richardy
-- 👀 I'm interested in make a python website (maybe work at riot games)
-- 🌱 I’m currently learning basic of portugol and python
+- 👋 Hi, I’m richardy
+- 👀 I'm interested in make a python website
+- 🌱 I’m currently learning full stack python
 - 📫 How to reach me richardy1000@gmail.com
 <!---
 zznagi/zznagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
